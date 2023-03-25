@@ -2,7 +2,7 @@ var GAME = {
   width: screen.width * 0.3,
   height: screen.height * 0.8,
   background: '#010352',
-  difficulty: 0.9,
+  difficulty: 0.1,
   colon: 7,
   stroke: 10
 };
